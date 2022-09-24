@@ -1,0 +1,5 @@
+$10000.0 Deposited in Account Number: 12345
+$20000.0 Withdrawn from Account Number: 12345
+$20000.0 Deposited in Account Number: 56789
+$5000.0 Withdrawn from Account Number: 56789
+$10000.0 Transferred from Account Number: 12345 to Account Number 56789
