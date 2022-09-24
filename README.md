@@ -1,6 +1,6 @@
 # Bank-Management-System
 This bank application project was developed by using JAVA language.
-this application has 2 users:
+This application has 2 users:
         1. Customer or bank account holder
         2. Employeer or banker
 
